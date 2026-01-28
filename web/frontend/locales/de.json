@@ -1,0 +1,27 @@
+{
+  "NavigationMenu": {
+    "3dProducts": "3D-Produkte"
+  },
+  "NotFound": {
+    "description": "Überprüfe die URL und versuche es erneut. Alternativ kannst du die Suchleiste verwenden, um zu finden, was du suchst.",
+    "heading": "Unter dieser Adresse gibt es keine Seite"
+  },
+  "3DProducts": {
+    "title": "3D Products",
+    "resourceSingular": "product",
+    "resourcePlural": "products",
+    "editAction": "Edit in Admin",
+    "refreshAction": "Refresh",
+    "loadMore": "Load More",
+    "emptyHeading": "No 3D models yet",
+    "emptyDescription": "Upload a .glb file to a product’s 3D model section to see it here.",
+    "table": {
+      "title": "Product",
+      "inventory": "Inventory",
+      "actions": "Actions"
+    },
+    "errors": {
+      "fetch": "Failed to load 3D products"
+    }
+  }
+}

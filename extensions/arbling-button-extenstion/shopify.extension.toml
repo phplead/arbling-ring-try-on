@@ -1,0 +1,12 @@
+name = "Arbling Button Extenstion"
+type = "theme_app_extension"
+uid = "2d58f954-7509-e73d-6d3e-b982f9b0a38cf27e6ca7"
+
+extension_points = [
+  "theme_app_extension"
+]
+
+[[blocks]]
+type = "try_on_button"
+name = "AR Try-On Button"
+target = "product"

@@ -1,0 +1,34 @@
+{
+  "NavigationMenu": {
+    "3dProducts": "3D Products"
+  },
+  "NotFound": {
+    "description": "Check the URL and try again, or use the search bar to find what you need.",
+    "heading": "There is no page at this address"
+  },
+  "3DProducts": {
+    "pageTitle": "3D Model Products",
+    "sectionTitle": "Products with 3D Models (.glb)",
+    "actions": {
+      "edit": "Edit",
+      "refresh": "Refresh List",
+      "loadMore": "Load More"
+    },
+    "tooltips": {
+      "editInAdmin": "Open product in Shopify Admin"
+    },
+    "table": {
+      "product": "Product",
+      "inventory": "Stock",
+      "actions": "Actions"
+    },
+    "empty": {
+      "heading": "No 3D models found",
+      "description": "Upload a .glb file in the product’s 3D model section to see it here.",
+      "action": "Refresh"
+    },
+    "errors": {
+      "fetch": "Failed to load 3D products"
+    }
+  }
+}
